@@ -103,16 +103,16 @@ const CONFIG = {
   educations: [
     {
       institution: '성균관대학교',
-      degree: 'bachelor's degree',
+      degree: 'bachelor',
       major: 'software',
       from: '2023',
       to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
     },
   ],
   publications: [
